@@ -1,1 +1,2 @@
+Asterix
 Bugs Bunny
