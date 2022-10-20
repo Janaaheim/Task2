@@ -1,1 +1,1 @@
-Bugs Bunny
+Bugs Bunny ist klein.
